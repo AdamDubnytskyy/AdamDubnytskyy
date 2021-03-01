@@ -3,7 +3,7 @@ I'm currently working on automated contract drafting software.
 
 My area of interests: cloud technologies, distributed applications, search, reliability, high availability, containers, kubernetes, DevOps/SRE, ruby, nodejs.
 
-Currently: linksquares.com/finalize-product Ex: lohika.com, marktplaats.nl, nationalevacaturebank.nl, belvilla.com, kasta.ua
+Currently: linksquares.com/finalize-product Ex: belvilla.com, tickets.ua
 
 I live in the Ukraine. Software Engineer since 2012. M.S. in Software Engineering.
 
