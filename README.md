@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My area of interests: cloud technologies, distributed applications, search, reliability, high availability, containers, kubernetes, DevOps/SRE, ruby, nodejs.
+My area of interests: cloud technologies, distributed applications, search, reliability, high availability, containers, kubernetes, DevOps/SRE, ruby.
 
 I live in the Ukraine. Software Engineer since 2012. M.S. in Software Engineering.
 
