@@ -2,7 +2,7 @@
 
 My area of interests: cloud technologies, distributed systems, continuous integration, containers, kubernetes, DevOps culture, infrastructure, security and last but not least ruby.
 
-I live in the Ukraine. Software Engineer since 2012. M.S. in Software Engineering.
+I am Ukrainian. Software Engineer since 2012. M.S. in Software Engineering.
 
 <!--
 **AdamDubnytskyy/AdamDubnytskyy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
