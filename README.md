@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My area of interests: cloud technologies, distributed applications, continuous integration, containers, kubernetes, DevOps culture, infrastructure, security and last but not least ruby.
+My area of interests: cloud technologies, distributed systems, continuous integration, containers, kubernetes, DevOps culture, infrastructure, security and last but not least ruby.
 
 I live in the Ukraine. Software Engineer since 2012. M.S. in Software Engineering.
 
