@@ -13,6 +13,8 @@ My area of interests: cloud, distributed systems, continuous integration, contai
 [linkedin]: https://linkedin.com/in/oleh-adam-dubnytskyy
 [medium]: https://medium.com/@adam.dubnytskyy
 
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2Fhit-counter&count_bg=%23008000&title_bg=%23000000&icon=&icon_color=%23E7E7E7&title=Profile+views&edge_flat=true)](https://hits.seeyoufarm.com)
+
 <!--
 **AdamDubnytskyy/AdamDubnytskyy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
