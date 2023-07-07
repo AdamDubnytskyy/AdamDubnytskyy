@@ -1,8 +1,14 @@
-### Hi there 👋
+### Hi there, I'm Adam 👋
 
-My area of interests: cloud technologies, distributed applications, continuous integration, containers, kubernetes, DevOps culture, infrastructure, security, ruby, nodejs, golang.
+My area of interests: cloud, distributed systems, continuous integration, containers, kubernetes, DevOps culture, infrastructure, security, programming.
 
-I am Ukrainian. Software Engineer since 2012. M.S. in Software Engineering.
+### Connect with me
+
+[<img align="left" alt="olehadamdubnytskyy | LinkedIn" width="22" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+
+![](https://hit.yhype.me/github/profile?user_id=3063013)
+
+[linkedin]: https://linkedin.com/in/oleh-adam-dubnytskyy
 
 <!--
 **AdamDubnytskyy/AdamDubnytskyy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
