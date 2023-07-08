@@ -1,6 +1,6 @@
 ### Hi there, I'm Adam 👋
 
-My area of interests: cloud, distributed systems, continuous integration, containers, kubernetes, DevOps culture, infrastructure, security, programming.
+My area of interests: cloud, distributed systems, continuous integration, kubernetes, DevOps culture, infrastructure, security, programming.
 
 ### Connect with me
 
