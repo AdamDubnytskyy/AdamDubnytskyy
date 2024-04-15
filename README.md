@@ -1,4 +1,4 @@
-### Hi there, I'm Adam 👋
+### Hi there, I'm Oleh Adam Dubnytskyy!
 
 My area of interests: cloud, distributed systems, observability, CI/CD, kubernetes, DevOps culture, GitOps, infrastructure, security, programming.
 
