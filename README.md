@@ -3,12 +3,12 @@
 My area of interests: product development, software and infrastructure engineering, platform engineering, CI/CD, Kubernetes, DevOps culture, security and programming.
 
 ### Skill set
-Experienced in GCP, AWS
-Focused on AWS Solutions: EKS, Cloud CI/CD
-Coding/Scripting: JavaScript, TypeScript, Go, Shell
-Kubernetes advocate and Certified Kubernetes Administrator (LF-8j4oth48fm)
-Operation experience Linux
-Microservices Architecture / Development
+* Experienced in GCP, AWS
+* Focused on AWS Solutions: EKS, Cloud CI/CD
+* Coding/Scripting: JavaScript, TypeScript, Go, Shell
+* Kubernetes advocate and Certified Kubernetes Administrator (LF-8j4oth48fm)
+* Operation experience Linux
+* Microservices Architecture / Development
 
 ### Connect with me
 
