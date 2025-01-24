@@ -6,7 +6,7 @@ My area of interests: product development, software and infrastructure engineeri
 * Experienced in GCP, AWS
 * Focused on AWS Solutions: EKS, Cloud CI/CD
 * Coding/Scripting: JavaScript, TypeScript, Go, Shell
-* Kubernetes advocate and Certified Kubernetes Administrator (LF-8j4oth48fm)
+* Kubernetes advocate, Certified Kubernetes Administrator (LF-8j4oth48fm) and Application Developer (LF-knvt6klfhj)
 * Operation experience Linux
 * Microservices Architecture / Development
 
