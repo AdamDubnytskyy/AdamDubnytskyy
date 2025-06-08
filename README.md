@@ -1,6 +1,6 @@
 ### Hi there, I'm Oleh Adam Dubnytskyy!
 
-My area of interests: product development, software and infrastructure engineering, platform engineering, CI/CD, Kubernetes, DevOps culture.
+My area of interests: product development, software and infrastructure engineering, platform engineering, CI/CD, Kubernetes, DevOps culture, GitOps.
 
 ### Skill set
 * Experienced in AWS, GCP
